@@ -5,7 +5,7 @@
 
 ### Business problem:
 
-Can an outlet predict sales with the following variables. Item Weight, Item Visibility, Item MRP, Item Type, Item Fat Content, Outlet Size, Outlet Type and Outlet Location Type
+Can an outlet predict sales using the following variables. Item Weight, Item Visibility, Item MRP, Item Type, Item Fat Content, Outlet Size, Outlet Type and Outlet Location Type
 
 
 ### Data:
