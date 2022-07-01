@@ -22,7 +22,7 @@ Dataset includes 8,523 rows with 12 columns. Item_Weight is missing 1463 rows an
 - Higest total sales for a single item in an outlet $13,086. 
 - Min total sales for a single item in an outlet $33.
 - Average total sales for a single item in an outlet $2181
-![Total Sales](https://github.com/cledgeja/coding_dojo/blob/d1bcb9954befe38160f0a546ff4dd5a2fb436c33/Machine_Learning/Projects/images/total%20outlet%20sales.png)
+![Total Sales](https://github.com/cledgeja/coding_dojo/blob/749877ee5d2bb565440c4493dc8c197e2ace6d1c/Machine_Learning/Projects/images/total%20sales%20by%20item%20and%20outlet.png)
 
 
 #### Decision Tree Test Actual vs Prediction
