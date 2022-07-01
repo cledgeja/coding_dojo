@@ -19,15 +19,18 @@ Dataset includes 8,523 rows with 12 columns. Item_Weight is missing 1463 rows an
 
 ## Results
 
-### Here are examples of how to embed images from your sub-folder
+### Testing average difference in actual vs predicted (RMSE) $1,166.33 with model explaining 51% of variance predicting sales (r2)
 
 
 #### Linear Regression Test Actual vs Prediction
-![LinearRegression](https://github.com/cledgeja/coding_dojo/blob/57c2c9447df421db996cb089b731877e924150ef/Machine_Learning/Projects/images/LinearModel%20Results%20Outlet%20Sales%20Analysis.png)
+![LinearRegression](https://github.com/cledgeja/coding_dojo/blob/328b72115000eeeecd34f38996f3fccbc96b0423/Machine_Learning/Projects/images/Decision%20Tree%20Outlet%20Sales%20Analysis.png)
 
 > Linear Regression Model predicting outlet sales
 
-#### Visual 2 Title
+### Testing average difference in actual vs predicted (RMSE) $1,057.44 with model explaining 59% of variance predicting sales (r2)
+
+#### Decision Tree Test Actual vs Prediction
+![LinearRegression](https://github.com/cledgeja/coding_dojo/blob/57c2c9447df421db996cb089b731877e924150ef/Machine_Learning/Projects/images/LinearModel%20Results%20Outlet%20Sales%20Analysis.png)
 
 ## Model
 
