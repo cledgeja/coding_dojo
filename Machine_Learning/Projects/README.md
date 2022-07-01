@@ -22,8 +22,8 @@ Dataset includes 8,523 rows with 12 columns. Item_Weight is missing 1463 rows an
 ### Here are examples of how to embed images from your sub-folder
 
 
-#### Visual 1 Title
-![sample_images](images/LinearModel Results Outlet Sales Analysis.png)
+#### Linear Regression Test Actual vs Prediction
+![LinearRegression](https://github.com/cledgeja/coding_dojo/blob/57c2c9447df421db996cb089b731877e924150ef/Machine_Learning/Projects/images/LinearModel%20Results%20Outlet%20Sales%20Analysis.png)
 
 > Linear Regression Model predicting outlet sales
 
