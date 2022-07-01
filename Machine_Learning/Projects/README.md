@@ -1,5 +1,5 @@
 # Using Machine Learning. Predicting outlet sales 
-## Subtitle describing the analysis 
+
 
 **Author**: Jason Cledgett
 
