@@ -31,17 +31,13 @@ Dataset includes 8,523 rows with 12 columns. Item_Weight is missing 1463 rows an
 
 ## Model
 
-Describe your final model
-
-Report the most important metrics
-
-Refer to the metrics to describe how well the model would solve the business problem
+The Decision Tree was the best fit model vs Linear Regression for this project. This models r2 score expalins 59% of the variance in predicting the total sales of an item in an outlet based on Item Weight, Item Visibility, Item MRP, Item Type, Item Fat Content, Outlet Size, Outlet Type and Outlet Location Type. The average root mean square (RMSE) is $1057.44. RMSE is an average of the difference in actual vs predicted with penality (higher error) for the model making larger errors. Choosing a lower RMSE is beneficial because all models will have differences between the actual and predicted values but it better to have a lot small errors vs a few very large errors. 
 
 ## Recommendations:
 
-More of your own text here
+I would reccomend cleaning up this dataset for missing values in Item Weights and Outlet Size and running the model again.
 
 
 ## Limitations & Next Steps
 
-More of your own text here
+Having a model that explains 59% of the prediction in Sales is decent. Next steps would be to either add more data and or variables.
