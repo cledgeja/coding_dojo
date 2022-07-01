@@ -1,1 +1,47 @@
+# Using Machine Learning. Predicting outlet sales 
+## Subtitle describing the analysis 
 
+**Author**: Jason Cledgett
+
+### Business problem:
+
+Can an outlet predict sales with the following variables. Item Weight, Item Visibility, Item MRP, Item Type, Item Fat Content, Outlet Size, Outlet Type and Outlet Location Type
+
+
+### Data:
+Dataset includes 8,523 rows with 12 columns. Item_Weight is missing 1463 rows and Outlet Size is missing 2410 rows. 
+
+
+## Methods
+- To prep the data for Machine Learning columns where categorized into features (Numeric, Ordinal, Nominal)
+- To handle missing data, the mean was applied to Item Weight and Most Frequent was applied to outlet size
+- 
+
+## Results
+
+### Here are examples of how to embed images from your sub-folder
+
+
+#### Visual 1 Title
+![sample image](project1_sample_image.png)
+
+> Sentence about visualization.
+
+#### Visual 2 Title
+
+## Model
+
+Describe your final model
+
+Report the most important metrics
+
+Refer to the metrics to describe how well the model would solve the business problem
+
+## Recommendations:
+
+More of your own text here
+
+
+## Limitations & Next Steps
+
+More of your own text here
