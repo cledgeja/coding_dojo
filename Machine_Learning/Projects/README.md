@@ -23,7 +23,7 @@ Dataset includes 8,523 rows with 12 columns. Item_Weight is missing 1463 rows an
 
 
 #### Visual 1 Title
-![images](LinearModel Results Outlet Sales Analysis.png)
+![sample_images](images/LinearModel Results Outlet Sales Analysis.png)
 
 > Linear Regression Model predicting outlet sales
 
