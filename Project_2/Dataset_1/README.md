@@ -6,4 +6,5 @@ Copyright © 2014 Beata Strack et al. This is an open access article distributed
 
 # The Healthcare Cost and Utilization Project (HCUP) Clinical Classifications Software (CCS) for ICD-9-CM
 https://www.hcup-us.ahrq.gov/toolssoftware/ccs/ccs.jsp
+
 The Clinical Classifications Software (CCS) for ICD-9-CM is one in a family of databases and software tools developed as part of the Healthcare Cost and Utilization Project (HCUP),a Federal-State-Industry partnership sponsored by the Agency for Healthcare Research and Quality. HCUP databases, tools, and software inform decision making at the national, State, and community levels.
