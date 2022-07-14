@@ -3,3 +3,6 @@ https://www.hindawi.com/journals/bmri/2014/781670/#abstract
 ## Academic Editor: Ali Rizvi
 ## Copyright
 Copyright © 2014 Beata Strack et al. This is an open access article distributed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+# The Healthcare Cost and Utilization Project (HCUP) Clinical Classifications Software (CCS) for ICD-9-CM
+https://www.hcup-us.ahrq.gov/toolssoftware/ccs/ccs.jsp
